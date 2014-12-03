@@ -1,3 +1,10 @@
+"""
+String reversing. What could be simpler?
+
+Usage:
+python string_reverse.py <string_to_reverse>
+"""
+
 import sys
 
 

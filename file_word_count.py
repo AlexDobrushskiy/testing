@@ -2,6 +2,11 @@
 This short script counts a number of files in a given folder.
 Also it counts total number of words in all files of a given folder.
 All files on folder should be text files.
+
+=============================================================
+Usage:
+python file_word_count.py '/home/me/my_folder'
+
 """
 import os
 import sys
